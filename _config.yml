@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C0C8C0'
+    - '#082040'
+    - '#70A858'
+    - '#68C040'
+    - '#000000'
+  brandStrength: 0.663651
+  lightness: 0.81014
+  rhythmicContrast: 0.707757
+  saturation: 0.150751
+cta: {}
+layout_spectrum: 0.524671
+name: 670collective
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.612664
